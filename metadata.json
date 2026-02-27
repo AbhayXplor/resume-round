@@ -1,0 +1,7 @@
+{
+  "name": "ResumeRound",
+  "description": "Voice-based AI interview prep tool that grills you based on your CV and job description.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
